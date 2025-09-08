@@ -1,0 +1,8 @@
+| Patient_ID | Age | Blood_Pressure | Disease       | City        | Cholesterol | Heart\_Disease | Family\_History |
+| ----------- | --- | --------------- | ------------- | ----------- | ----------- | -------------- | --------------- |
+| 101         | 65  | 130             | Diabetes      | Los Angeles | 210         | No             | Yes             |
+| 102         | 58  | 125             | Heart Disease | Houston     | 190         | Yes            | Yes             |
+| 103         | 45  | 115             | Hypertension  | Chicago     | 180         | No             | No              |
+| 104         |
+| 105     
+| 106
