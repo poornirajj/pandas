@@ -1,0 +1,6 @@
+Customer_ID,Product,Category,Region,Price,Quantity,Date_of_Purchase,Discounted_Price,Region_Type,Total_Revenue,Total_Amount_Spent,Total_Purchases
+C001,Laptop,Electronics,New York,1000.0,1,2023-06-15,900.0,Urban,900.0,900.0,1
+C002,Apple,Groceries,Rural South,1.5,10,2023-06-16,1.4249999999999998,Rural,14.249999999999998,14.249999999999998,1
+C003,Headphones,Electronics,Chicago,200.0,2,2023-06-17,180.0,Urban,360.0,360.0,1
+C004,TV,Electronics,Los Angeles,1500.0,1,2023-06-18,1350.0,Urban,1350.0,1350.0,1
+C005,Banana,Groceries,Rural Midwest,0.5,20,2023-06-19,0.475,Rural,9.5,9.5,1

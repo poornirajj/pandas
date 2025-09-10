@@ -1,1 +1,6 @@
-1001,Electronics,750,2023-04-20,newyork,2,south
+Customer_ID,Product,Category,Region,Price,Quantity,Date_of_Purchase
+C001,Laptop,Electronics,New York,1000,1,2023-06-15
+C002,Apple,Groceries,Rural South,1.5,10,2023-06-16
+C003,Headphones,Electronics,Chicago,200,2,2023-06-17
+C004,TV,Electronics,Los Angeles,1500,1,2023-06-18
+C005,Banana,Groceries,Rural Midwest,0.5,20,2023-06-19
