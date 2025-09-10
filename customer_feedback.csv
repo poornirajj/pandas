@@ -1,0 +1,6 @@
+Feedback_ID,Customer_ID,Feedback_Text,Rating,Date_Submitted,Channel
+101,C001,Great service!,5,2023-05-01,Email
+| 102          | C002         |                |        |                 | web     |
+| 103          | C003         | Luvd it!!!     | 4      | 2023/05/02      | Twitter |
+| 101          | C001         | Great service! | 5      | 2023-05-01      | Email   |
+| ...          | ...          | ...            | ...    | ...             | ...     |

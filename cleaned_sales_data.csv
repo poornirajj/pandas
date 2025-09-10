@@ -1,0 +1,4 @@
+product_id,sales_amount,price,customer_location,purchase_date,product_category,payment_method
+1001,2.0,25.5,New York,2023-01-15,Electronics,Cash
+1002,1.0,27.75,Los Angeles,2023-01-15,Electronics,Credit Card
+1004,3.0,30.0,Chicago,2023-01-17,Electronics,Cash

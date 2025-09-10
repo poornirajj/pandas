@@ -1,2 +1,5 @@
-pens,Stationary,5000,100,2025-05-05
-Sugar,Grocery,2000,200,2025-04-07
+Product_ID,Sales_Amount,Price,Customer_Location,Purchase_Date,Product_Category,Payment_Method
+1001,2,25.50,New York,2023-01-15,Electronics,Csh
+1002,1,,Los Angeles,,Electronics,Creditcard
+1003,,45.00,,2023-01-16,Home & Kitchen,Cash
+1004,3,30.00,Chicago,2023-01-17,Electronics,cash
