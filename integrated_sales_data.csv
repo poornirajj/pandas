@@ -1,0 +1,5 @@
+CustomerID,OrderID,Product,Amount,Name,Email,Location,ProductID,Category,Price
+101,5001,Laptop,1200,Alice,alice@example.com,New York,1,Electronics,1000
+102,5002,Mouse,25,Bob,bob@example.com,Chicago,2,Accessories,20
+101,5003,Keyboard,80,Alice,alice@example.com,New York,3,Accessories,70
+103,5004,Monitor,300,Charlie,charlie@example.com,San Francisco,4,Electronics,250

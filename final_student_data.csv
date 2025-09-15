@@ -1,0 +1,5 @@
+StudentID,Name,Department,CourseID,CourseName,FacultyName
+1,Alice,Computer Science,CS101,Data Structures,Dr. Smith
+2,Bob,Mechanical,ME201,Thermodynamics,Dr. Adams
+3,Charlie,Computer Science,CS102,Algorithms,Dr. Jane
+4,David,Civil,Not Enrolled,N/A,TBD

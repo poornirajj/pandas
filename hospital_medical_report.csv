@@ -1,0 +1,6 @@
+PatientID,Name,Age,Diagnosis,Date,DoctorName,Specialization,Prescription
+201,John Doe,45,Diabetes,2025-09-01,Dr. Wilson,Cardiology,Metformin
+201,John Doe,45,Diabetes,2025-09-10,Dr. Carter,General Medicine,Antibiotics
+202,Jane Smith,32,Flu,2025-09-02,Dr. Carter,General Medicine,Paracetamol
+203,Robert Brown,60,Hypertension,2025-09-03,Dr. Wilson,Cardiology,Lisinopril
+204,Emily Davis,29,Asthma,2025-09-04,Dr. Lee,Pulmonology,Inhaler
